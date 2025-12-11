@@ -1,4 +1,4 @@
-# Delero
+# Celero
 
 A Vue component library for builders.
 
